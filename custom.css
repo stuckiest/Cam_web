@@ -1,0 +1,19 @@
+
+/*styles for index page*/
+
+.name{
+	height: 350px;
+}
+
+.padding{
+	padding-top: 250px;
+}
+
+.background{
+	background-color: #424242;
+}
+
+.google_font {
+  font-family: 'Poiret One', sans-serif;
+  color: white;
+}
